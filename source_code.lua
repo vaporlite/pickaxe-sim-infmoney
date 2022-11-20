@@ -17,7 +17,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
                 Invite = "34tJXDPzvq",
                 RememberJoins = false
             },
-        KeySystem = true,
+        KeySystem = false,
         KeySettings = {
             Title = "Vapor Artworks",
             Subtitle = "Key System",
